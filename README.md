@@ -23,9 +23,3 @@ Spectra is an internal 5G beamforming and RF analysis prototype for on-the-fly e
    `.venv\Scripts\python.exe main.py`
 4. Run the validation suite:
    `.venv\Scripts\python.exe -m pytest -q`
-
-## Recommended next improvements
-- Add real Monte Carlo dashboards and beam pattern plots
-- Build a CLI mode for scripted batch runs
-- Add CI/CD for automated tests on GitHub
-- Add packaging and release notes for easy internal deployment
